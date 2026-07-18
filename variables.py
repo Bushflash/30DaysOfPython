@@ -31,8 +31,7 @@ print(type(phone))
 print(type(pc))
 print(type(laptop))
 
-len(first_name)
-len(last_name)
+print(len(first_name)==len(last_name))
 num_one= 5
 num_two = 4
 total = num_one + num_two
